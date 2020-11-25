@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/takePhoto/index",
+    "pages/NdaPage/index",
+    "pages/signature/signature",
+    "pages/index/visitorFromList/visitorFromList",
+    "pages/admin/editNda/index",
+    "pages/admin/setting/setting"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "访客记录",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

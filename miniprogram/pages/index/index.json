@@ -1,0 +1,13 @@
+{
+
+  "usingComponents": {
+    "indexCard": "/components/index/indexCard/indexCard",
+    "vistorFrom": "/components/visitorFrom/visitorFrom",
+    "mp-dialog": "/miniprogram_npm/weui-miniprogram/dialog/dialog",
+    "datePicker": "/components/datePicker/index",
+    "mp-badge": "/miniprogram_npm/weui-miniprogram/badge/badge",
+    "mp-cells": "/miniprogram_npm/weui-miniprogram/cells/cells",
+    "mp-cell": "/miniprogram_npm/weui-miniprogram/cell/cell",
+    "vistorEdit": "/components/visitorEdit/visitorEdit"
+  }
+}
